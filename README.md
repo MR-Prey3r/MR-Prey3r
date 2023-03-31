@@ -40,7 +40,7 @@ You can ask me about cyber security and some web devs(if I know the answer hehe)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://visitcount.itsvg.in/api?id=Rubay3t&icon=0&color=0)
+
 ![](https://komarev.com/ghpvc/?username=Rubay3t&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
