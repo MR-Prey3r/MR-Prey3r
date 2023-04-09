@@ -20,7 +20,7 @@ Here are some ideas to get you started: -->
 # 💫 About Me:
 Currently working on and learning InfoSec<br>
 I'm looking for someone to collaborate with who is passionate about cyber security and has the same mind like me hehe<br>
-You can ask me about cyber security and some web devs(if I know the answer hehe)
+You can ask me about cyber security and some web dev stuffs (if I know the answer hehe)
 
 
 ## 🌐 Socials:
