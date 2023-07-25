@@ -1,26 +1,18 @@
-### Hi there 👋
+# Hi there! I'm MD.Rubayet Hassan AKA MR_Prey3r 👋
 
 <!--
 **Rubay3t/Rubay3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-<!--
-- 🔭 I’m currently working on Cybersecurity...
-- 🌱 I’m currently learning Cybersecurity & programming...
-- 👯 I’m looking to collaborate on ah! I guess I don't know actually 😑...
-- 🤔 I’m looking for help with ...ah! Maybe that's also unknown to me...hehe😅😑...
-- 💬 Ask me about cybersecurity & if it's in my knowledge then you're gonna definitely find your answer from me inshallah...
-- 📫 How to reach me: Uh! There's a way to reach me... But..how? Do I know?🤔...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like bugs in other's codes yeaaay....!✌️👌✌️ Ummm... Okay that's not a joke(😑)...
--->
-
 
 # 💫 About Me:
 Currently working on and learning InfoSec<br>
 I'm looking for someone to collaborate with who is passionate about cyber security and has the same mind like me hehe<br>
 You can ask me about cyber security and some web dev stuffs (if I know the answer hehe)
+
+I am currently doing bug bounty hunting on platforms like HackerOne, Bugcrowd etc.
+And I am also known as MR_Prey3r
 
 
 ## 🌐 Socials:
