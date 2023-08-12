@@ -9,10 +9,12 @@ Here are some ideas to get you started: -->
 # 💫 About Me:
 Currently working on and learning InfoSec<br>
 I'm looking for someone to collaborate with who is passionate about cyber security and has the same mind like me hehe<br>
+Jokes aside, if you are a beginner in penetration testing or websec assessmeent thing and looking for someone collaborate with then feel free to get in touch! You can simply DM me on twitter or mail me at rubaethasanariyan@gmail.com
+
 You can ask me about cyber security and some web dev stuffs (if I know the answer hehe)
 
 I am currently doing bug bounty hunting on platforms like HackerOne, Bugcrowd etc.
-And I am also known as MR_Prey3r
+And I am also known as MR_Prey3r. I use to play CTFs as well (though not really that good)
 
 
 ## 🌐 Socials:
