@@ -17,6 +17,7 @@ I am currently doing bug bounty hunting on platforms like HackerOne, Bugcrowd et
 And I am also known as MR_Prey3r. I use to play CTFs as well (though not really that good)
 
 Find me in HackerOne : https://hackerone.com/rubayet_hassan?type=user
+
 Find me in HackerOne : https://bugcrowd.com/MR_Prey3r
 
 
