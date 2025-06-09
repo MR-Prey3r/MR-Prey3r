@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 ## 💫 Who is MR_Prey3r? / About Me:
 ### My biggest identity is I'm a passionate learner & a believer!<br>
-I'm a student & deepely obsessed with Offensive Security. Outside the terminal, I'm also an aviation geek. You may find me flying through the virtual skies when my Burpsuite is down for a rest. Basically I waste my time doing bug bounties, flight simming, playing CTFs, sometimes designing aircraft 3D models, microprocessor & IoT stuff. I got strong cravings of breaking things apart to know how do they work.
+I'm a student & deepely obsessed with Offensive Security. Outside the terminal, I'm also an aviation geek. You may find me flying through the virtual skies when my Burpsuite is down for a rest. Basically I waste my time doing bug bounties, flight simming, playing CTFs, sometimes designing aircraft 3D models, microprocessor & IoT stuff. I got strong cravings of breaking things apart to know how do they work. Member of Exploit_Enforcers CTF team!
 If you wanna talk about OffSec, payloads &bypasses or aviation stuff, let's connect! Since #TogetherWeHitHarder :sunglasses: 
 
 ## Wanna find me some place else?
